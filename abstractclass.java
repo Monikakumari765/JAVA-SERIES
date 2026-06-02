@@ -25,7 +25,7 @@ class Circle extends Shape {
         this.radius = radius;
     }
 
-    double area() {
+    double area () {
         return 3.14 * radius * radius;
     }
 }
